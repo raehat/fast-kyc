@@ -102,7 +102,7 @@ export default function Layout(props) {
 
           <div className="  bg-black text-white py-5 text-center">
             Built by
-            <div className="fw-bold">@surbhitagrawal</div>
+            <div className="fw-bold">Raehat Singh Nanda</div>
           </div>
         </motion.div>
       </AnimatePresence>
